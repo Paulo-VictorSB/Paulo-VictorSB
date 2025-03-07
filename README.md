@@ -1,4 +1,4 @@
-# Olá, eu sou o Paulo-VictorSB! 👋
+# Olá, eu sou o Paulo Barbosa! 👋
 
 Bem-vindo ao meu repositório! Aqui você pode ver minhas estatísticas de contribuições no GitHub, além de alguns dos projetos que estou desenvolvendo.
 
