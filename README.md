@@ -33,23 +33,23 @@ Aqui está um gráfico de minhas contribuições ao longo do último ano:
 
 Eu sou ativo em muitos projetos! Aqui estão algumas contribuições que você pode conferir:
 
-- [Projeto 1](https://github.com/Paulo-VictorSB/projeto-1) - Descrição do projeto 1.
-- [Projeto 2](https://github.com/Paulo-VictorSB/projeto-2) - Descrição do projeto 2.
+- [Tete programador Jr]([https://github.com/Paulo-VictorSB/projeto-1](https://github.com/Paulo-VictorSB/teste-programador-jr-php-procedural)) - Aplicação simples para gerenciar uma lista de tarefas utilizando PHP procedural, MySQLi para conexão com o banco de dados, Bootstrap para o layout e jQuery com AJAX para interações dinâmicas.
+- [Keyworlds]([https://github.com/Paulo-VictorSB/projeto-2](https://github.com/Paulo-VictorSB/KeyWorldsApp)) - KeyWorlds é um jogo desenvolvido para testar e aprimorar sua digitação e reconhecimento de caracteres. O desafio consiste em digitar corretamente as sequências exibidas na tela, compostas por letras maiúsculas, minúsculas, números e caracteres especiais. Não há tempo limite, mas a variedade de caracteres torna a experiência desafiadora e envolvente!
 
 ---
 
 ## 🛠 Tecnologias que Uso
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Angular
-- **Backend**: PHP, Laravel, Node.js
-- **Banco de Dados**: MySQL, PostgreSQL
-- **Ferramentas**: Git, GitHub, Docker, cPanel
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: PHP
+- **Banco de Dados**: MySQL
+- **Ferramentas**: Git, GitHub, cPanel, SCRUM
 
 ---
 
 ## 📞 Entre em Contato
 
-- **Email**: paulo.victorsb@email.com
+- **Email**: paulovdbarbosa@gmail.com
 - **LinkedIn**: [Paulo-VictorSB no LinkedIn](https://www.linkedin.com/in/paulo-victorsb/)
 
 ---
