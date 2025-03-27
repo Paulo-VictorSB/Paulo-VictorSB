@@ -40,10 +40,10 @@ Eu sou ativo em muitos projetos! Aqui estão algumas contribuições que você p
 
 ## 🛠 Tecnologias que Uso
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: PHP
-- **Banco de Dados**: MySQL
-- **Ferramentas**: Git, GitHub, cPanel, SCRUM
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, jQuery
+- **Backend**: Laravel, PHP
+- **Banco de Dados**: MySQL, SQLServer 
+- **Ferramentas**: Git, GitHub, cPanel, SCRUM, EloquentORM
 
 ---
 
